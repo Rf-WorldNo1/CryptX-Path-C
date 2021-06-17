@@ -1,5 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
+#include <iostram.h>
 
 int main(void){
     int scores[4];
